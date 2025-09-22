@@ -1,0 +1,5 @@
+model\Kelas.class
+main\Main.class
+model\Laboratorium.class
+model\Ruangan.class
+service\RuanganService.class
