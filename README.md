@@ -46,5 +46,10 @@ Dalam kode ini overriding digunakan untuk menulis ulang method toString() milik 
 
 
 
+## Alur Program
 
+Program ini memiliki 7 menu 
+
+
+<img width="1016" height="243" alt="image" src="https://github.com/user-attachments/assets/4436b521-0609-43a5-be82-ec4c09a62864" />
 
