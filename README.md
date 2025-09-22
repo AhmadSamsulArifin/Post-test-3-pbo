@@ -53,3 +53,52 @@ Program ini memiliki 7 menu
 
 <img width="1016" height="243" alt="image" src="https://github.com/user-attachments/assets/4436b521-0609-43a5-be82-ec4c09a62864" />
 
+
+1. menu pertama yaitu menambah data, pada bagian ini user bakal diminta untuk mengisi data data seperti nomor ruangan,tipe ruangan, dan status.
+
+
+<img width="977" height="229" alt="image" src="https://github.com/user-attachments/assets/87638fbb-dc61-428c-9b36-f39418e74f29" />
+
+
+2. menu kedua yaitu menampilkan semua ruangan, dimenu ini program bakal menampilkan semua ruangan yang sudah di tambahkan.
+
+
+<img width="973" height="187" alt="image" src="https://github.com/user-attachments/assets/e43b31b7-54a1-4a4e-a72e-82fc8ac0bf3e" />
+
+
+3. menu ketiga yaitu mengupdate atau mengubah data, jadi pada menu ini user memilih mana yang akan diubah datanya.
+
+
+<img width="965" height="238" alt="image" src="https://github.com/user-attachments/assets/536f8f17-0a7e-4cc7-a288-22256863a4ba" />
+
+
+4. menu keempat yaitu menghapus ruangan, jadi dimenu ini user dapat menghapus data dengan memilih nomor yang ingin dihapus.
+
+
+<img width="982" height="206" alt="image" src="https://github.com/user-attachments/assets/580a0c35-7f0f-4e41-99ae-9957628fc633" />
+
+
+5. menu kelima yaitu mencari ruangan bedasarkan nomor, jadi dimenu ini user harus memasukkan nomor mana yang ingin di cari
+
+
+<img width="580" height="211" alt="image" src="https://github.com/user-attachments/assets/e18bfac2-02f7-4937-9e99-fb6ee716ce1c" />
+
+
+6. menu keenam yaitu mencari ruangan bedasarkan tipe, jadi dimenu ini user harus memasukkan tipe ruangan apa yang ingin di cari
+
+
+<img width="971" height="197" alt="image" src="https://github.com/user-attachments/assets/4498f69a-5167-4799-8fe8-11174d374c0c" />
+
+
+7. menu ketujuh yaitu keluar dari program
+
+
+<img width="975" height="289" alt="image" src="https://github.com/user-attachments/assets/dc8b1d98-67c0-4220-9274-e89e21009658" />
+
+
+
+8. Tampilan setelah menu keluar adalah penerapan Overriding
+
+
+<img width="1022" height="168" alt="image" src="https://github.com/user-attachments/assets/6101237e-508b-4023-922f-9b8d2df33d1e" />
+
